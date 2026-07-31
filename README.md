@@ -10,8 +10,7 @@ También se incluyó una validación para evitar que el usuario ingrese datos in
 
 ## Vista previa
 
-![Interfaz del Menú del Colmado](<img width="742" height="575" alt="interfaz" src="https://github.com/user-attachments/assets/e934c630-b202-4888-a4ef-b466a5da3ffa" />
-)
+![Interfaz del Menú del Colmado](<img width="742" height="575" alt="interfaz" src="https://github.com/user-attachments/assets/21c8b723-2988-41cf-b002-381fecbe4b0d" />)
 
 ## Funcionalidades
 
