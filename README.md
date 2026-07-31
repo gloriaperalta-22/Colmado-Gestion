@@ -8,6 +8,10 @@ Al hacer clic en el botón **Calcular**, el programa toma el precio del producto
 
 También se incluyó una validación para evitar que el usuario ingrese datos incorrectos en la cantidad, mostrando un mensaje si el valor no es válido. Con este proyecto pude poner en práctica el uso de controles de **Windows Forms**, eventos, variables, condicionales y algunos conceptos básicos de la **Programación Orientada a Objetos**, creando una aplicación simple, funcional y fácil de utilizar.
 
+## Vista previa
+
+![Interfaz del Menú del Colmado](interfaz.png)
+
 ## Funcionalidades
 
 - Seleccionar un producto.
