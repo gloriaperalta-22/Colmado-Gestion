@@ -1,4 +1,4 @@
-# Menú de Gestor para Colmado (filled)
+# Menú de Gestor para Colmado (heaped)
 
 ## Descripción del programa
 
